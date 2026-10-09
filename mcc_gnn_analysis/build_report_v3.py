@@ -105,7 +105,10 @@ def main():
     const params=new URL(location).searchParams;search.value=params.get('q')||'';role.value=['all','role','other'].includes(params.get('role'))?params.get('role'):'all';mix.value=['40','60','80'].includes(params.get('mix'))?params.get('mix'):'60';search.addEventListener('input',draw);role.addEventListener('change',draw);mix.addEventListener('change',draw);draw();'''.replace('DATA',payload,1)
     content=re.sub(r'<script>.*?</script>','<script>'+js+'</script>',content,flags=re.S)
     assert '검증된 후보 0명' not in content
+    from standalone_html import embed_images
+    content,embedded_count=embed_images(content,P)
+    assert embedded_count==8
     dest.write_text(content,encoding='utf-8')
-    (V/'report_checks.json').write_text(json.dumps({'ranked_candidates':len(d),'role_candidates':int(d.screen_pass.sum()),'benchmark_only':len(bench),'contract_filter':False,'figures_used':8,'removed_typo_commentary':True},indent=2),encoding='utf-8')
+    (V/'report_checks.json').write_text(json.dumps({'ranked_candidates':len(d),'role_candidates':int(d.screen_pass.sum()),'benchmark_only':len(bench),'contract_filter':False,'figures_used':8,'embedded_images':embedded_count,'standalone_images':True,'removed_typo_commentary':True},indent=2),encoding='utf-8')
     print('Expanded detailed report built:',len(d),'ranked candidates')
 if __name__=='__main__':main()

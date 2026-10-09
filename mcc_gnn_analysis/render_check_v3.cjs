@@ -17,7 +17,7 @@ const{chromium}=require('C:/Users/junhy/.cache/codex-runtimes/codex-primary-runt
  await page.locator('img').evaluateAll(xs=>{xs.forEach(x=>x.loading='eager');return Promise.all(xs.map(x=>x.decode()))});
  await page.evaluate(()=>document.fonts.ready);
  const expected=JSON.parse(fs.readFileSync(path.join(__dirname,'v2','expanded_summary.json')));if(expected.contract_filter!==false)throw Error('Contract filter remains');
- const links=await page.locator('a[href]').evaluateAll(xs=>xs.map(x=>x.getAttribute('href')).filter(x=>!x.startsWith('http')&&!x.startsWith('#')));
+ const links=await page.locator('a[href]').evaluateAll(xs=>xs.map(x=>x.getAttribute('href')).filter(x=>!x.startsWith('http')&&!x.startsWith('#')&&!x.startsWith('data:')));
  for(const f of links)if(!fs.existsSync(path.join(__dirname,f)))throw Error('Missing '+f);
  await page.locator('#mix').selectOption('60');await page.locator('#ranking').screenshot({path:path.join(out,'ranking_desktop.png')});
  await page.locator('#type').screenshot({path:path.join(out,'type_desktop.png')});

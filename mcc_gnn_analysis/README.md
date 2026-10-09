@@ -53,3 +53,9 @@ python build_report.py
 구버전 설명은 `README_v1.md`, 보고서는 `mcc_gnn_report_v1.html`, 생성기는 `build_report_v1.py`에 보관합니다.
 
 현재 상세 HTML은 선수 검색, 역할 조건 필터, 기본/보완 비중 40/60/80% 변경을 지원하며 URL에 상태를 저장합니다. 전체 35명에 재표집을 다시 수행했으므로 예전 23명 집단의 순위 구간과 혼용하지 않습니다.
+
+## HTML 단독 실행
+
+`mcc_gnn_report.html`에는 그래프 8개가 내장되어 있습니다. 이 HTML 파일 하나만 다른 폴더나 컴퓨터로 옮겨도 인터넷 연결 없이 그래프·순위·검색·필터를 사용할 수 있습니다. 그림 PNG/SVG 다운로드도 내장되어 있습니다. 별도 CSV·코드 링크는 저장소 파일을 참조합니다.
+
+생성기 `standalone_html.py`가 로컬 이미지와 그림 다운로드를 data URL로 포함합니다. `check_standalone.cjs`는 HTML만 임시 폴더에 복사해 오프라인 렌더링을 검증합니다.
