@@ -1,0 +1,36 @@
+player_id,name,net_delta36,net_min,net_max,mcc_points_delta36,contexts,note
+107,Aric Holman,15.770984957053013,-16.621580942755823,34.89254984765439,0.3811351513894182,362,exploratory bootstrap-model range; not confidence interval or causal effect
+106,Brandon Gilbeck,15.333781154962969,-31.558881884018774,40.85118212418133,-3.926526053064534,382,exploratory bootstrap-model range; not confidence interval or causal effect
+34,Jason Washburn,11.89650869737704,-24.359615421061598,27.95322045178497,-2.950707125425328,355,exploratory bootstrap-model range; not confidence interval or causal effect
+10861,Cheick Diallo,10.977158623671562,-0.19556299426441698,22.06187289749573,-1.0281092611406868,400,exploratory bootstrap-model range; not confidence interval or causal effect
+10880,Nemanja Radovic,9.954297020304487,-6.050352180627668,18.609799233135124,0.928713190218466,334,exploratory bootstrap-model range; not confidence interval or causal effect
+16,Malcolm Miller,7.4343266356948545,1.2880983669243544,20.670580490171222,-0.2337582371300401,400,exploratory bootstrap-model range; not confidence interval or causal effect
+10888,Anzejs Pasecniks,6.824349147254966,-34.36764638635067,31.494164926830614,-3.897833609326434,389,exploratory bootstrap-model range; not confidence interval or causal effect
+10887,Drew Pember,6.796605598767289,-8.107778798574587,17.322611882448626,1.7225346116324995,374,exploratory bootstrap-model range; not confidence interval or causal effect
+10867,Darral Willis,6.498864297708087,-10.383862489495849,23.725025636679817,1.3933886753020914,398,exploratory bootstrap-model range; not confidence interval or causal effect
+8889,Marko Todorovic,6.404097321203838,-8.684537519995354,25.117881356970642,-0.037012228300930164,364,exploratory bootstrap-model range; not confidence interval or causal effect
+10894,Cady Lalanne,5.080660288930143,-31.99561864368612,27.39169493073959,-1.9485654578189149,384,exploratory bootstrap-model range; not confidence interval or causal effect
+10868,Jordy Tshimanga,4.503090688131307,-13.422480899733449,15.51209748481138,0.028866991822891475,391,exploratory bootstrap-model range; not confidence interval or causal effect
+14843,Marin Marić,3.6172477137257424,-14.600293370578934,23.93358903614534,0.48829839472975367,397,exploratory bootstrap-model range; not confidence interval or causal effect
+10875,Jayden Gardner,1.7077196551046385,-13.04569967629324,9.730330419826144,-0.23751493752870984,375,exploratory bootstrap-model range; not confidence interval or causal effect
+4181,Edgaras Zelionis,1.571856298123149,-28.983844603856245,29.504307515754764,1.153327040040915,389,exploratory bootstrap-model range; not confidence interval or causal effect
+10890,Trey Thompkins III,0.8847239595236001,-14.957714340660495,31.440192064040072,4.456243649929678,376,exploratory bootstrap-model range; not confidence interval or causal effect
+14845,Youssoupha Ndoye,0.7334588634775698,-31.467796868678864,26.48058057165058,-2.3277820156453446,387,exploratory bootstrap-model range; not confidence interval or causal effect
+13907,Makur Maker,-1.1018151186221778,-34.63298974437285,31.242368393102357,-1.2326990312553843,367,exploratory bootstrap-model range; not confidence interval or causal effect
+14844,Hunter Maldonado,-1.3846742634093174,-42.454235975607055,34.73154514248696,4.012080074808518,389,exploratory bootstrap-model range; not confidence interval or causal effect
+10862,TJ Holyfield,-2.265752571778473,-27.8906529623589,11.940648865306084,2.7643159743242496,367,exploratory bootstrap-model range; not confidence interval or causal effect
+13906,Benjamin Bentil,-2.834638728710078,-16.865824986142872,16.34835475557477,2.7617261756822367,378,exploratory bootstrap-model range; not confidence interval or causal effect
+32,Austin Daye,-3.188287440846074,-36.32390329466327,39.0238219407131,3.898879776034221,400,exploratory bootstrap-model range; not confidence interval or causal effect
+13400,Diamond Stone,-3.511103107053495,-20.96434571726811,16.879085041529226,-1.1999904938384902,377,exploratory bootstrap-model range; not confidence interval or causal effect
+13029,Jalen Harris,-3.5842412169116287,-38.95671214433764,20.772099610286773,5.064773089747564,348,exploratory bootstrap-model range; not confidence interval or causal effect
+12668,Chris Ortiz,-3.862049970055125,-29.626358031663106,26.286080475805452,3.824328086458549,385,exploratory bootstrap-model range; not confidence interval or causal effect
+13777,Julian Boyd,-3.885055744016065,-14.561478179638184,13.407028320491069,3.3374697016855337,394,exploratory bootstrap-model range; not confidence interval or causal effect
+10881,Viktor Gaddefors,-4.278724161842329,-15.90090963283466,5.328280456841619,1.836383878766974,365,exploratory bootstrap-model range; not confidence interval or causal effect
+51,Kristijan Krajina,-4.314587134836735,-33.238815192846914,34.23916934996326,-1.2774582266341543,397,exploratory bootstrap-model range; not confidence interval or causal effect
+68,Lasannah Kromah,-6.318201781530478,-22.942142990584756,0.35802087542420763,2.0361358844558106,400,exploratory bootstrap-model range; not confidence interval or causal effect
+104,Beau Beech,-6.594613316250099,-15.897596736376517,2.77917953052894,3.988032333090788,400,exploratory bootstrap-model range; not confidence interval or causal effect
+10869,Stanton Kidd,-8.46673041589138,-17.687641373352722,3.4901445256368615,1.403231509221941,357,exploratory bootstrap-model range; not confidence interval or causal effect
+10889,James Ennis III,-8.694971750145513,-22.048180619808196,0.33577534981267637,1.9968447687373303,378,exploratory bootstrap-model range; not confidence interval or causal effect
+14038,Olufemi Olujobi,-15.262155296729906,-37.98203634350839,-1.4352699959325508,0.9336520522322168,366,exploratory bootstrap-model range; not confidence interval or causal effect
+10870,Zach Lofton,-17.077380005531484,-51.51101327007941,22.93802592408181,2.0123711000172047,393,exploratory bootstrap-model range; not confidence interval or causal effect
+12908,Bogdan Bliznyuk,-18.03875807290577,-41.23983608570791,-0.5465755837545497,0.6188821253552025,392,exploratory bootstrap-model range; not confidence interval or causal effect

@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-10",
+  "seed": 20261010,
+  "stints": 385,
+  "games": 24,
+  "minutes": 595.1999999999999,
+  "removed_stints": 16,
+  "feature_timing": "strictly earlier calendar date; temporal test frozen at first test date",
+  "temporal_cutoff": "2026-02-15",
+  "node_features": 19,
+  "graph_features": 197,
+  "candidate_count": 35,
+  "screened_count": 23,
+  "checks": {
+    "heldout_stat_perturbation_max": 0.0,
+    "permutation_max": 1.7763568394002505e-15,
+    "kernel_min_eigenvalue": 1.6997250389556721e-06
+  },
+  "final_graph": {
+    "lambda_": 10,
+    "bandwidth": 0.5,
+    "inner_rmse": 69.74461294313919,
+    "contexts": 384
+  },
+  "model_selection": "nested 3-fold tuning inside five outer game folds; temporal holdout also inner-tuned",
+  "caution": "old holdout was previously inspected; temporal test is reused retrospective evidence, not untouched new-season confirmation",
+  "sources": {
+    "25-26-TPBL-McC-main\\GNN\\output_data\\gnn_dataset\\stint_graphs.csv": "0160d7c3279d44657eba44ec044c5b2692513d9eb506b8c62face8532e2747b1",
+    "25-26-TPBL-McC-main\\GNN\\output_data\\gnn_dataset\\nodes.csv": "4efa0fd3153fb4c80547c69acc7b89a5d9d9d0847a2f82a5116b994382c412be",
+    "25-26-TPBL-McC-main\\GNN\\input_data\\player_game_logs.csv": "fc0eecc46673c555c6ef10af1eff056d3e020e902b4c5946d3fcea3d3fd4da45",
+    "25-26-TPBL-McC-main\\GNN\\pbp_tables\\events.csv": "c19e11a733895356e70d7f4d26811ad22ca4af9209b44ea3f6e1be67a207f057"
+  }
+}

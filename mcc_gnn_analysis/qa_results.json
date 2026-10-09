@@ -1,0 +1,24 @@
+{
+  "browser": "Microsoft Edge via Playwright",
+  "desktop": [
+    1440,
+    1000
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "candidateRows": 32,
+  "teamFirst": "1\tJordy Tshimanga\t226.6\t4.85\t[-3.29, 12.89]\t18.23\tCheick Diallo\t2~4",
+  "individualFirst": "1\tLasannah Kromah (기존)\t1070.7\t1.12\t[-6.97, 8.44]\t21.26\tLasannah Kromah\t34~35",
+  "pageErrors": [],
+  "mobilePageOverflow": false,
+  "missingLocalLinks": [],
+  "checks": [
+    "search",
+    "existing toggle",
+    "criterion sorting",
+    "URL reload persistence",
+    "figure rendering"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "rows": 35,
+  "images": 5,
+  "local_links": true,
+  "search": true,
+  "url_persistence": true,
+  "mobile_overflow": false,
+  "page_errors": []
+}

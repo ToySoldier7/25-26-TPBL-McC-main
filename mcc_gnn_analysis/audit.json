@@ -1,0 +1,24 @@
+{
+  "seed": 20261004,
+  "nodes": 137,
+  "regular_mcc_games": 24,
+  "regular_stints": 526,
+  "regular_minutes": 680.3,
+  "analysis_stints": 401,
+  "analysis_minutes": 617.8333333333334,
+  "candidate_imports_min200": 35,
+  "game_dates": [
+    "2025-10-19",
+    "2026-05-02"
+  ],
+  "gradient_max_abs_error": 1.3086975947373958e-11,
+  "primary_target": "team net points per36",
+  "secondary_target": "McCullough points per36",
+  "overall_net36": 2.738602643647156,
+  "bootstrap_replicates": 2000,
+  "source_sha256": {
+    "25-26-TPBL-McC-main\\GNN\\output_data\\gnn_dataset\\stint_graphs.csv": "0160d7c3279d44657eba44ec044c5b2692513d9eb506b8c62face8532e2747b1",
+    "25-26-TPBL-McC-main\\GNN\\output_data\\gnn_dataset\\nodes.csv": "4efa0fd3153fb4c80547c69acc7b89a5d9d9d0847a2f82a5116b994382c412be",
+    "25-26-TPBL-McC-main\\GNN\\input_data\\player_game_logs.csv": "fc0eecc46673c555c6ef10af1eff056d3e020e902b4c5946d3fcea3d3fd4da45"
+  }
+}

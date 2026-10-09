@@ -1,0 +1,26 @@
+const fs=require('fs');const path=require('path');const {pathToFileURL}=require('url');
+const {chromium}=require('C:/Users/junhy/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+(async()=>{
+ const out=path.join(__dirname,'v2','qa');fs.mkdirSync(out,{recursive:true});
+ const browser=await chromium.launch({headless:true,channel:'msedge'});
+ const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(String(e)));
+ await page.goto(pathToFileURL(path.join(__dirname,'mcc_gnn_report.html')).href);
+ await page.locator('img').evaluateAll(xs=>Promise.all(xs.map(x=>x.decode())));
+ const missing=await page.locator('a[href]').evaluateAll(xs=>xs.map(x=>x.getAttribute('href')).filter(x=>!x.startsWith('http')&&!x.startsWith('#')));
+ for(const f of missing)if(!fs.existsSync(path.join(__dirname,f)))throw Error('Missing '+f);
+ if(await page.locator('#reviewRows tr').count()!==35)throw Error('Candidate count');
+ await page.locator('#fa').screenshot({path:path.join(out,'fa_desktop.png')});
+ await page.screenshot({path:path.join(out,'desktop.png'),fullPage:true});
+ await page.locator('#fa details').first().evaluate(e=>e.open=true);
+ await page.locator('#search').fill('Marin');
+ if(await page.locator('#reviewRows tr:not([hidden])').count()!==1)throw Error('Search');
+ await page.reload();if(await page.locator('#search').inputValue()!=='Marin')throw Error('URL persistence');
+ await page.setViewportSize({width:390,height:844});
+ await page.locator('#results').screenshot({path:path.join(out,'model_mobile.png')});
+ const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);
+ if(overflow)throw Error('Mobile page overflow');
+ await page.screenshot({path:path.join(out,'mobile.png'),fullPage:true});
+ if(errors.length)throw Error(errors.join('\n'));
+ fs.writeFileSync(path.join(out,'browser_checks.json'),JSON.stringify({rows:35,images:5,local_links:true,search:true,url_persistence:true,mobile_overflow:false,page_errors:errors},null,2));
+ await browser.close();console.log('V2 browser checks passed');
+})().catch(e=>{console.error(e);process.exit(1)});

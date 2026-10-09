@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="972pt" height="540pt" viewBox="0 0 972 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-10T01:15:48.078459</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 972 540 
+L 972 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 123.379811 328.833 
+L 235.068113 328.833 
+Q 251.023585 328.833 251.023585 322.029 
+L 251.023585 233.577 
+Q 251.023585 226.773 235.068113 226.773 
+L 123.379811 226.773 
+Q 107.42434 226.773 107.42434 233.577 
+L 107.42434 322.029 
+Q 107.42434 328.833 123.379811 328.833 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #ffffff; stroke: #225ac7; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 314.845472 199.557 
+L 474.400189 199.557 
+Q 490.35566 199.557 490.35566 192.753 
+L 490.35566 131.517 
+Q 490.35566 124.713 474.400189 124.713 
+L 314.845472 124.713 
+Q 298.89 124.713 298.89 131.517 
+L 298.89 192.753 
+Q 298.89 199.557 314.845472 199.557 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #ffffff; stroke: #225ac7; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 247.926028 274.310157 
+Q 274.957197 219.968186 301.241459 167.127758 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 295.8832 171.163729 
+L 301.241459 167.127758 
+L 301.25528 173.835947 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 487.354271 165.573026 
+Q 518.277705 219.968946 548.372322 272.906934 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 548.015085 266.208249 
+L 548.372322 272.906934 
+L 542.799032 269.173514 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 314.845472 308.421 
+L 474.400189 308.421 
+Q 490.35566 308.421 490.35566 301.617 
+L 490.35566 240.381 
+Q 490.35566 233.577 474.400189 233.577 
+L 314.845472 233.577 
+Q 298.89 233.577 298.89 240.381 
+L 298.89 301.617 
+Q 298.89 308.421 314.845472 308.421 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #ffffff; stroke: #087f78; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 249.028664 275.98053 
+Q 274.956236 274.401034 299.20986 272.923514 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 293.038542 270.293907 
+L 299.20986 272.923514 
+L 293.403383 276.282804 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 488.365122 272.80652 
+Q 518.278833 274.401059 546.517872 275.906329 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 540.686065 272.591208 
+L 546.517872 275.906329 
+L 540.366691 278.582702 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 314.845472 417.285 
+L 474.400189 417.285 
+Q 490.35566 417.285 490.35566 410.481 
+L 490.35566 349.245 
+Q 490.35566 342.441 474.400189 342.441 
+L 314.845472 342.441 
+Q 298.89 342.441 298.89 349.245 
+L 298.89 410.481 
+Q 298.89 417.285 314.845472 417.285 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #ffffff; stroke: #225ac7; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 247.970338 277.868926 
+Q 274.956252 328.831979 301.15737 378.31294 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 301.000844 371.606563 
+L 301.15737 378.31294 
+L 295.698352 374.414334 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 487.401016 379.855006 
+Q 518.276535 328.834984 548.283776 279.249743 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 542.610718 282.829744 
+L 548.283776 279.249743 
+L 547.743942 285.93619 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 562.155283 328.833 
+L 673.843585 328.833 
+Q 689.799057 328.833 689.799057 322.029 
+L 689.799057 233.577 
+Q 689.799057 226.773 673.843585 226.773 
+L 562.155283 226.773 
+Q 546.199811 226.773 546.199811 233.577 
+L 546.199811 322.029 
+Q 546.199811 328.833 562.155283 328.833 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #ffffff; stroke: #087f78; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 687.810953 276.102 
+Q 713.731956 276.102 737.975908 276.102 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 731.975908 273.102 
+L 737.975908 276.102 
+L 731.975908 279.102 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 753.620943 335.637 
+L 897.220189 335.637 
+Q 913.17566 335.637 913.17566 328.833 
+L 913.17566 226.773 
+Q 913.17566 219.969 897.220189 219.969 
+L 753.620943 219.969 
+Q 737.665472 219.969 737.665472 226.773 
+L 737.665472 328.833 
+Q 737.665472 335.637 753.620943 335.637 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #ffffff; stroke: #225ac7; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 821.431698 335.932682 
+Q 821.431698 347.543358 821.431698 357.476983 
+" clip-path="url(#pb08dc31db5)" style="fill: none; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 824.431698 351.476983 
+L 821.431698 357.476983 
+L 818.431698 351.476983 
+z
+" clip-path="url(#pb08dc31db5)" style="fill: #6c7b8e; stroke: #6c7b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(147.39865 261.999563)">선수 특성 X</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(157.582712 282.136125)">10 × 19</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(135.911462 302.799562)">박스스코어·신체</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(368.513455 156.531563)">자기 특성</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(374.000643 176.884687)">X Wself</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #087f78" transform="translate(357.099393 265.419)">동료 4명 평균</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #087f78" transform="translate(349.954705 285.438375)">Ateam X Wteam</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(357.099393 374.259563)">상대 5명 평균</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(355.678143 392.957063)">Aopp X Wopp</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #087f78" transform="translate(585.448496 262.137375)">합산 + tanh</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #087f78" transform="translate(585.432559 282.555187)">노드 표현 H</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #087f78" transform="translate(599.662871 302.536125)">10 × 8</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(793.311191 262.0905)">역할별 읽기</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(766.575566 282.399563)">맥컬러 + 동료 + 상대</text>
+    <text style="font-size: 12px; font-family: 'Malgun Gothic'; fill: #225ac7" transform="translate(781.584004 302.799562)">+ 시작 맥락 4개</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Malgun Gothic'; fill: #172739" transform="translate(781.515761 375.716906)">팀 득실 / 36분</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Malgun Gothic'; fill: #172739" transform="translate(769.515761 388.368)">맥컬러 득점 / 36분</text>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="53.46" y="40.678125" transform="rotate(-0 53.46 40.678125)">GNN은 선수의 특성과 관계를 어떻게 결합하는가?</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 11px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #6c7b8e" x="53.46" y="54" transform="rotate(-0 53.46 54)">구현된 1층 관계형 GNN · 노드 10명 · 특성 19개 · 은닉 8차원 · 파라미터 522개</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 10px; font-family: 'Malgun Gothic'; fill: #6c7b8e" transform="translate(53.46 489.930469)">관계별 가중치는 학습하며, 동료·상대 집계는 각각 1/4·1/5의 고정 평균입니다.</text>
+   <text style="font-size: 10px; font-family: 'Malgun Gothic'; fill: #6c7b8e" transform="translate(53.46 505.427344)">출처: analyze.py의 GNN.forward·design·POOL. 구조도는 예측 성능을 뜻하지 않습니다.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb08dc31db5">
+   <rect x="87.48" y="102.6" width="845.64" height="340.2"/>
+  </clipPath>
+ </defs>
+</svg>

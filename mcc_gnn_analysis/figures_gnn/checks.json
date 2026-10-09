@@ -1,0 +1,49 @@
+{
+  "original_cv_predictions_reproduced": true,
+  "original_temporal_predictions_reproduced": true,
+  "figures": 9,
+  "seed": 20261004,
+  "pca_explained_variance": [
+    0.48696291131072783,
+    0.17779492614596978
+  ],
+  "embedding_players": 52,
+  "png_dimensions": {
+    "05_gnn_architecture": [
+      2970,
+      1650
+    ],
+    "06_lineup_message_graph": [
+      2970,
+      1650
+    ],
+    "07_actual_vs_predicted": [
+      2970,
+      1650
+    ],
+    "08_game_error_timeline": [
+      3190,
+      1650
+    ],
+    "09_residual_distribution": [
+      2970,
+      1650
+    ],
+    "10_context_embedding_pca": [
+      2970,
+      1870
+    ],
+    "11_feature_permutation_sensitivity": [
+      2970,
+      1980
+    ],
+    "12_hypothetical_partner_ranges": [
+      2970,
+      1870
+    ],
+    "13_temporal_learning_curves": [
+      2970,
+      1650
+    ]
+  }
+}

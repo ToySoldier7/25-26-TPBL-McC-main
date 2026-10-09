@@ -1,0 +1,30 @@
+{
+  "purpose": "conditional KBL rotation-scouting policy, not model-validated synergy",
+  "quality_weights": {
+    "TS": 0.35,
+    "points": 0.2,
+    "rebounds": 0.25,
+    "creation": 0.2
+  },
+  "quality_mix": 0.6,
+  "complement_mix": 0.4,
+  "mcc_percentiles": {
+    "TS": 0.1111111111111111,
+    "points": 0.6111111111111112,
+    "rebounds": 0.8888888888888888,
+    "creation": 0.1388888888888889,
+    "three_made36": 0.2777777777777778
+  },
+  "deficit_weights": {
+    "TS": 0.4,
+    "creation": 0.37142857142857144,
+    "three_made36": 0.22857142857142856
+  },
+  "screen": {
+    "minutes": 400,
+    "height_cm": 198,
+    "shrunk_reb36": 8
+  },
+  "availability_in_score": false,
+  "contract_and_budget_known": false
+}

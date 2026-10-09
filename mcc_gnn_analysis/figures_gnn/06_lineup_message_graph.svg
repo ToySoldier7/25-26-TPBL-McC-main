@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="972pt" height="540pt" viewBox="0 0 972 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-10T01:15:48.199076</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 972 540 
+L 972 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 283.094841 152.576802 
+Q 377.72903 202.708326 470.387278 251.793115 
+" style="fill: none; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 467.269146 247.425364 
+L 470.387278 251.793115 
+L 465.022198 251.66697 
+z
+" style="fill: #087f78; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m75d23440ed" d="M 0 9.746794 
+C 2.58488 9.746794 5.064238 8.719811 6.892024 6.892024 
+C 8.719811 5.064238 9.746794 2.58488 9.746794 0 
+C 9.746794 -2.58488 8.719811 -5.064238 6.892024 -6.892024 
+C 5.064238 -8.719811 2.58488 -9.746794 0 -9.746794 
+C -2.58488 -9.746794 -5.064238 -8.719811 -6.892024 -6.892024 
+C -8.719811 -5.064238 -9.746794 -2.58488 -9.746794 0 
+C -9.746794 2.58488 -8.719811 5.064238 -6.892024 6.892024 
+C -5.064238 8.719811 -2.58488 9.746794 0 9.746794 
+z
+" style="stroke: #ffffff; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#m75d23440ed" x="256.608" y="138.54566" style="fill: #087f78; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #172739" x="230.588308" y="141.69361" transform="rotate(-0 230.588308 141.69361)">Gao Jin-Wei</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 283.294896 230.554637 
+Q 377.728066 247.229649 469.959234 263.515832 
+" style="fill: none; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 465.649697 260.317724 
+L 469.959234 263.515832 
+L 464.815026 265.044597 
+z
+" style="fill: #087f78; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#m75d23440ed" x="256.608" y="225.842264" style="fill: #087f78; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #172739" x="230.588308" y="228.772215" transform="rotate(-0 230.588308 228.772215)">Chuang Po-Yuan</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 283.294896 308.426495 
+Q 377.728066 291.751483 469.959234 275.4653 
+" style="fill: none; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 464.815026 273.936535 
+L 469.959234 275.4653 
+L 465.649697 278.663408 
+z
+" style="fill: #087f78; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#m75d23440ed" x="256.608" y="313.138868" style="fill: #087f78; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #172739" x="230.588308" y="316.286817" transform="rotate(-0 230.588308 316.286817)">Lin Sin-Kuan</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 283.094841 386.40433 
+Q 377.72903 336.272806 470.387278 287.188017 
+" style="fill: none; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 465.022198 287.314162 
+L 470.387278 287.188017 
+L 467.269146 291.555768 
+z
+" style="fill: #087f78; opacity: 0.72; stroke: #087f78; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#m75d23440ed" x="256.608" y="400.435472" style="fill: #087f78; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #172739" x="230.588308" y="403.583421" transform="rotate(-0 230.588308 403.583421)">Lasannah Kromah</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 724.495313 152.576802 
+Q 629.861124 202.708326 537.202876 251.793115 
+" style="fill: none; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 542.567956 251.66697 
+L 537.202876 251.793115 
+L 540.321007 247.425364 
+z
+" style="fill: #225ac7; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_5">
+    <defs>
+     <path id="mb479b82348" d="M 0 9.746794 
+C 2.58488 9.746794 5.064238 8.719811 6.892024 6.892024 
+C 8.719811 5.064238 9.746794 2.58488 9.746794 0 
+C 9.746794 -2.58488 8.719811 -5.064238 6.892024 -6.892024 
+C 5.064238 -8.719811 2.58488 -9.746794 0 -9.746794 
+C -2.58488 -9.746794 -5.064238 -8.719811 -6.892024 -6.892024 
+C -8.719811 -5.064238 -9.746794 -2.58488 -9.746794 0 
+C -9.746794 2.58488 -8.719811 5.064238 -6.892024 6.892024 
+C -5.064238 8.719811 -2.58488 9.746794 0 9.746794 
+z
+" style="stroke: #ffffff; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#mb479b82348" x="750.982154" y="138.54566" style="fill: #225ac7; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="777.001846" y="141.475612" transform="rotate(-0 777.001846 141.475612)">Ting Sheng-Ju</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 724.330562 211.077322 
+Q 629.859535 236.099867 537.550039 260.549888 
+" style="fill: none; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 542.804533 261.64089 
+L 537.550039 260.549888 
+L 541.575537 257.000893 
+z
+" style="fill: #225ac7; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#mb479b82348" x="750.982154" y="204.018113" style="fill: #225ac7; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="777.001846" y="207.166062" transform="rotate(-0 777.001846 207.166062)">Samuel Manu</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 724.265838 269.490566 
+Q 629.861784 269.490566 537.693797 269.490566 
+" style="fill: none; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 542.493797 271.890566 
+L 537.693797 269.490566 
+L 542.493797 267.090566 
+z
+" style="fill: #225ac7; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#mb479b82348" x="750.982154" y="269.490566" style="fill: #225ac7; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="777.001846" y="272.638515" transform="rotate(-0 777.001846 272.638515)">Stanton Kidd</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 724.330562 327.90381 
+Q 629.859535 302.881265 537.550039 278.431244 
+" style="fill: none; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 541.575537 281.980239 
+L 537.550039 278.431244 
+L 542.804533 277.340242 
+z
+" style="fill: #225ac7; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#mb479b82348" x="750.982154" y="334.963019" style="fill: #225ac7; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="777.001846" y="338.110968" transform="rotate(-0 777.001846 338.110968)">Makur Maker</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 724.495313 386.40433 
+Q 629.861124 336.272806 537.202876 287.188017 
+" style="fill: none; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 540.321007 291.555768 
+L 537.202876 287.188017 
+L 542.567956 287.314162 
+z
+" style="fill: #225ac7; opacity: 0.72; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #225ac7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#mb479b82348" x="750.982154" y="400.435472" style="fill: #225ac7; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="777.001846" y="403.583421" transform="rotate(-0 777.001846 403.583421)">Kenneth Chien</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #087f78" x="256.608" y="114.153962" transform="rotate(-0 256.608 114.153962)">동료 평균 · 각 0.25</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #225ac7" x="750.982154" y="114.153962" transform="rotate(-0 750.982154 114.153962)">상대 평균 · 각 0.20</text>
+   </g>
+   <g id="PathCollection_10">
+    <defs>
+     <path id="m93cb454af1" d="M 0 16.583124 
+C 4.397896 16.583124 8.616257 14.835821 11.726039 11.726039 
+C 14.835821 8.616257 16.583124 4.397896 16.583124 0 
+C 16.583124 -4.397896 14.835821 -8.616257 11.726039 -11.726039 
+C 8.616257 -14.835821 4.397896 -16.583124 0 -16.583124 
+C -4.397896 -16.583124 -8.616257 -14.835821 -11.726039 -11.726039 
+C -14.835821 -8.616257 -16.583124 -4.397896 -16.583124 0 
+C -16.583124 4.397896 -14.835821 8.616257 -11.726039 11.726039 
+C -8.616257 14.835821 -4.397896 16.583124 0 16.583124 
+z
+" style="stroke: #172739"/>
+    </defs>
+    <g clip-path="url(#pe08c2b39c0)">
+     <use xlink:href="#m93cb454af1" x="503.795077" y="269.490566" style="fill: #172739; stroke: #172739"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <g id="patch_11">
+     <path d="M 446.991171 305.387382 
+L 560.598983 305.387382 
+L 560.598983 287.953671 
+L 446.991171 287.953671 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #172739" x="503.795077" y="300.301132" transform="rotate(-0 503.795077 300.301132)">Chris McCullough</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #172739" x="53.46" y="40.389375" transform="rotate(-0 53.46 40.389375)">실제 라인업에서 맥컬러가 받는 두 종류의 메시지</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 11px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #6c7b8e" x="53.46" y="54" transform="rotate(-0 53.46 54)">관측 예시: game 1442 · 1442_001 · 6.77분 · 맥컬러 중심 수신 관계</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10px; font-family: 'Malgun Gothic'; fill: #6c7b8e" transform="translate(53.46 490.154688)">화살표는 메시지의 수신 방향이며 어시스트·패스 기록이 아닙니다. 실제 모델에서는 모든 노드가 메시지를 받습니다.</text>
+   <text style="font-size: 10px; font-family: 'Malgun Gothic'; fill: #6c7b8e" transform="translate(53.46 506.196094)">그림은 맥컬러의 수신 엣지만 표시합니다. 노드 위치는 도식적 배치입니다.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe08c2b39c0">
+   <rect x="87.48" y="102.6" width="845.64" height="340.2"/>
+  </clipPath>
+ </defs>
+</svg>

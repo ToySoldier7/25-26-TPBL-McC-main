@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-10",
+  "candidate_scope": "All recorded foreign players >=200 minutes excluding McCullough; retirement-reported players included by user request",
+  "observed_candidates": 35,
+  "ranked_candidates": 35,
+  "role_screen_count": 23,
+  "benchmark_only_count": 0,
+  "retirement_reported_included": 2,
+  "retirement_filter": false,
+  "contract_filter": false,
+  "contract_in_score": false,
+  "percentile_reference_players": 36,
+  "bootstrap": 500,
+  "bootstrap_unit": "league game, 126 games",
+  "reference_fixed": true,
+  "screen_fixed": true,
+  "seed": 20261010,
+  "point_score_reproduction_max_error": 7.105427357601002e-15,
+  "interpretation": "Analyst policy score, not graph-learned synergy or guaranteed recruitment availability"
+}
