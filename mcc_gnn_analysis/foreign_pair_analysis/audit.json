@@ -1,0 +1,73 @@
+{
+  "seed": 20261010,
+  "game_bootstrap": 5000,
+  "adjustment_bootstrap": 2000,
+  "role_profile_observed_imports": 48,
+  "role_reference_imports_min200": 36,
+  "league_games": 126,
+  "league_teams": 7,
+  "primary_mcc_games": 24,
+  "primary_mcc_stints": 385,
+  "primary_mcc_minutes": 595.2,
+  "pair_only_stints": 384,
+  "pair_only_minutes": 592.4166666666665,
+  "excluded_single_import_stints": 1,
+  "excluded_single_import_minutes": 2.783333333333333,
+  "off_court_event_stints_removed_from_mcc_30s_non_garbage": 16,
+  "regression_audit": [
+    {
+      "spec": "game_FE",
+      "columns": [
+        "Miller",
+        "Diallo"
+      ],
+      "columns_count": 2,
+      "point_rank": 2,
+      "bootstrap_rank_min": 2,
+      "full_rank_bootstrap_share": 1.0
+    },
+    {
+      "spec": "game_FE_context_domestic",
+      "columns": [
+        "Miller",
+        "Diallo",
+        "quarter_2",
+        "quarter_3",
+        "quarter_4",
+        "margin_at_start",
+        "sec_remaining_regulation",
+        "domestic_12",
+        "domestic_54",
+        "domestic_57",
+        "domestic_62",
+        "domestic_3129",
+        "domestic_10884"
+      ],
+      "columns_count": 13,
+      "point_rank": 13,
+      "bootstrap_rank_min": 13,
+      "full_rank_bootstrap_share": 1.0
+    }
+  ],
+  "exploratory_cluster_selected_k": 2,
+  "exploratory_cluster_silhouette": 0.25337835004274234,
+  "cluster_features": [
+    "shr_three_rate",
+    "shr_paint_rate",
+    "shr_AST36",
+    "shr_reb36",
+    "shr_BLK36",
+    "shr_STL36",
+    "shr_FGA36"
+  ],
+  "meaning": "Retrospective observed associations, not causal uplift or prospective prediction. Role tags use >=75th percentile; low shot usage uses <=25th percentile. Blocks/steals are event production, not complete defensive ability. Adjusted domestic indicators only for players with >=60 shared minutes, with most-used domestic player omitted as reference.",
+  "possessions": "Box-score estimate FGA-OREB+TOV+0.44FTA. net100 uses mean own/opponent possessions; ORtg/DRtg use separate own/opponent denominators.",
+  "within_game": "Same game harmonic exposure weighted pair differences; minimum exposure variants 0/2/5 minutes. TS weights use shot-attempt-equivalent exposure.",
+  "sources": {
+    "GNN\\output_data\\gnn_dataset\\stint_graphs.csv": "7a095ce1973d41aa2e2072b848558c72a18e9bcab8bba35c880b379ebb99898a",
+    "GNN\\output_data\\gnn_dataset\\nodes.csv": "218c9e092760fa8704496c107b5dab67c71c5d8241d09cee8d5091feec1d067d",
+    "GNN\\input_data\\player_game_logs.csv": "8bea675987832f650e114c9cb890dd0d32b0af23099859dd99161fb7a3d3ce5f",
+    "GNN\\pbp_tables\\events.csv": "d04d142b78e70784b254065985ac44d5e753b44cf96a332456d4e1199b2f9d69",
+    "GNN\\pbp_tables\\stint_players.csv": "c474d4d8254cabeafa2a659bf5c3537fde768e48771a67808e8fd8081c4953ff"
+  }
+}

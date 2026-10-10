@@ -1,0 +1,10 @@
+{
+  "pair_count": 3,
+  "pair_stints": 384,
+  "pair_minutes": 592.4166666666666,
+  "all_imports": 48,
+  "reference_imports": 36,
+  "margin_and_rate_identities": "passed",
+  "game_bootstrap_regression_identification": "passed",
+  "figures": 4
+}
